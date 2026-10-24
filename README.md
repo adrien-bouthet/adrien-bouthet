@@ -24,7 +24,7 @@ Références : La Banque Postale, EDF. Certifié Six Sigma Black Belt et CIF.
 | [Lupus Solutions](https://www.lupussolutions.fr/) | Collectif de freelances : gestion de projet agile, placement en régie, formations, IA |
 | [Patrimoine360](https://patrimoine360.com/) | Agrégateur patrimonial : actions, crypto, comptes et immobilier dans un seul dashboard |
 | [Bordeaux Finance](https://bordeauxfinance.fr/) | Meetup investisseurs mensuel et gratuit à Bordeaux |
-| *Construire son patrimoine sans filtre* | Mon livre sur l'investissement (bourse, immobilier, obligations, crypto), disponible sur Amazon |
+| [Construire son patrimoine sans filtre](https://www.amazon.fr/dp/B0HMPJBP8X) | Mon livre sur l'investissement (bourse, immobilier, obligations, crypto), disponible sur Amazon |
 | [adrienbouthet.fr](https://adrienbouthet.fr/) | Mon parcours, mes études de cas et mes offres d'accompagnement |
 
 ### Stack
